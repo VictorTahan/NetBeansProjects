@@ -191,6 +191,7 @@ public class TelaComissao extends javax.swing.JFrame {
         lblCom.setText(Float.toString(comissao));
         float total = salario + comissao;
         lblTotal.setText(Float.toString(total));
+        /** teste*/
     }//GEN-LAST:event_btnCalcActionPerformed
 
     /**
